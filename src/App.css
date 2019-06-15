@@ -1,0 +1,24 @@
+.touchAction{
+  touch-action: none;
+}
+.background{
+  background-color:rgba(105, 4, 80, 0.1);
+  height:100vh;
+}
+
+.particles {
+  position: fixed;
+  right: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+.heading{
+  background-color:rgba(255,255,255,0.1);
+  color:white;
+}
+p{
+  color:black !important;
+  font-size: 20px;
+}
